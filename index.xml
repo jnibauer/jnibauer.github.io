@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>  on Jacob Nibauer</title>
+    <link>https://jnibauer.github.io/</link>
+    <description>Recent content in   on Jacob Nibauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jnibauer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>https://jnibauer.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jnibauer.github.io/research/</guid>
+      <description>The Statistics of Extended Debris Disks Measured with Gaia and Planck with Eric Baxter (UPenn/Cambridge) and Bhuvnesh Jain (UPenn)
+  arxiv: 1912.10498 | Submitted
+Circumstellar debris disks provide key insights to the planet formation process, and are linked with the discovery of nearby exoplanets. Through a novel likelihood based approach, we use the submillimeter Planck survey, cross-correlated with data from Gaia, in order to place constraints on properties of debris disks, including the number of stars with disks.</description>
+    </item>
+    
+    <item>
+      <title>Recitation Material</title>
+      <link>https://jnibauer.github.io/recitationmaterial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jnibauer.github.io/recitationmaterial/</guid>
+      <description>Updated weekly.
+ Recitation 1 Recitation 2 Recitation 3  </description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://jnibauer.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jnibauer.github.io/teaching/</guid>
+      <description>Spring 2020   Recitations:
+ Monday DRL 4E19, 8-8:50am | 9-9:50am Friday DRL 2C4, 9-9:50am  Recitation worksheets will be uploaded on a weekly basis here
+  Office hours:
+ Monday TBA Wednesday TBA Friday TBA    Math 114E: Multivariable Calculus for Engineers Weekly Additional Problems (with Solutions, eventually!)  Vol. 1 Ch.1-6  Other Potentially Useful Material You will not necessarily be held responible for knowing all of the material below (derivations, etc.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jnibauer.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jnibauer.github.io/contact/</guid>
+      <description>Email me at jnibauer@sas.upenn.edu</description>
+    </item>
+    
+  </channel>
+</rss>
