@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {{ site.url }}/pages/mydoc.pdf
-[Click Here]({{ site.url }}/assets/jacob_nibauer_cv.pdf) to see a full CV. If you're looking for an updated publication list, see below.
+[Click Here]({{ site.url }}/pages/jacob_nibauer_cv.pdf) to see a full CV. If you're looking for an updated publication list, see below.
 
 {:start="4"}
  4. [Charting Galactic Accelerations with Stellar Streams and Machine Learning](https://arxiv.org/abs/2205.11767){:target="_blank"}: **Nibauer** et al. 2022, arXiv:2205.11767, Submitted
