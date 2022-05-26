@@ -39,7 +39,7 @@ There's another quantity that will be useful in a moment: the arc-length functio
 \begin{equation}\label{eq: path_length_gamma}
 s(\gamma) = \int\limits_{0}^\gamma d\tilde{\gamma} \sqrt{\frac{d\boldsymbol{x}}{d\gamma} \cdot \frac{d\boldsymbol{x}}{d\gamma} },
 \end{equation}
-where the integrand is evaluated at $\tilde{\gamma}$. With this quantity in-hand, let's start taking some derivatives. First, because $\gamma$ is simply a montonic function encoding phase-angle along the stream, it is closely related to $s(\gamma)$ and has the same properties. So, we would have equally as well expressed the position and velocity as functions of $s$, arc-length. Of course, $s$ is itself a function of $\gamma$, so we're about to apply the chain rule:
+where the integrand is evaluated at $\tilde{\gamma}$. With this quantity on-hand, let's start taking some derivatives. First, because $\gamma$ is simply a montonic function encoding phase-angle along the stream, it is closely related to $s(\gamma)$ and has the same properties. So, we would have equally as well expressed the position and velocity as functions of $s$, arc-length. Of course, $s$ is itself a function of $\gamma$, so we're about to apply the chain rule:
 \begin{equation}\label{eq:dvds}
     \frac{d\boldsymbol{v}}{ds} = \frac{d\boldsymbol{v}}{dt}\frac{dt}{ds} = \frac{d\boldsymbol{v}}{dt}\left(\frac{ds}{dt}\right)^{-1} = \boldsymbol{a}\left(\frac{ds}{dt}\right)^{-1},
 \end{equation}
