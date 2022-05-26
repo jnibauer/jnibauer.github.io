@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV & Publications"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+[Click Here](/jacobnibauer.github.io/pages/jacob_nibauer_cv.pdf) to see a full CV. If you're looking for an updated publication list, see below.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+{:start="4"}
+ 4. [Charting Galactic Accelerations with Stellar Streams and Machine Learning](https://arxiv.org/abs/2205.11767){:target="_blank"}: **Nibauer** et al. 2022, arXiv:2205.11767, Submitted
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+ {:start="3"}
+ 3. [The Simons Observatory: Galactic Science Goals and Forecasts](https://iopscience.iop.org/article/10.3847/1538-4357/ac5e36){:target="_blank"}: Hensley et al. 2022, ApJ 929 166
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ {:start="2"}
+ 2. [Statistics of the Chemical Composition of Solar Analog Stars and Links to Planet Formation](https://iopscience.iop.org/article/10.3847/1538-4357/abd0f1){:target="_blank"}: **Nibauer** et al. 2021, ApJ, 907, 116
+
+ {:start="1"}
+ 1. [The Statistics of Extended Debris Disks Meaured with Gaia and Planck](https://iopscience.iop.org/article/10.3847/1538-3881/ab8192){:target="_blank"}: **Nibauer** et al. 2020, AJ, 159, 210
+

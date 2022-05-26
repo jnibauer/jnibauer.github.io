@@ -1,16 +1,11 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## [Charting Galactic Accelerations with Stellar Streams and Machine Learning](/jacobnibauer.github.io/publication/charting_acc_streams)
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<img src="../images/foo-bar-identity-th.jpg" alt="drawing" width="800"/>

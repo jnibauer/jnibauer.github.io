@@ -7,7 +7,7 @@
   float: left;
   margin-left: 0;
   margin-right: 0;
-  width: 100%;
+  width: 100%; 
   clear: both;
   /* sticky footer fix start */
   position: absolute;
@@ -66,7 +66,7 @@
   }
 
   li {
-    display: inline-block;
+    display: none;
     padding-top: 5px;
     padding-bottom: 5px;
     font-family: $sans-serif-narrow;
