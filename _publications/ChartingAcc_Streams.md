@@ -64,10 +64,10 @@ where $\tilde{\gamma}$ is an evaluation point. In summary, we have used the chai
 ## Fitting Simulated Streams in a Ground Truth Potential
 <img src="../images/stream_sample.png" alt="drawing" height = 500 width="950"/>
 Each stream in our work is fit using a flexible neural network to estimate $\boldsymbol{x}(\gamma)$ and $\boldsymbol{v}(\gamma)$. A sample fit to a simulated stream is shown above, where the scatter points represent stars in the space of cartesian positions $(x,y,z)$ and the colorful curve is our neural network derived stream track. The curve is color-coded by the $\gamma$-value, which encodes position along the stream. We also fit the speed along the stream using a neural network, illustrated below.
-<img src="../images/speed.png" alt="drawing" width="350"/>
+<img src="../images/speed.png" class="center" alt="drawing" width="350"/>
 
 ## Estimating Accelerations
-Now, once the differentiable phase-space curve $(\boldsymbol{x}(\gamma), \boldsymbol{v}(\gamma))$ is fit, we use Eq. \ref{eq: acceleration_eqn} directly to estimate "a slice" through the galactic acceleration field along a stream. 
+Now, once the differentiable phase-space curve $(\boldsymbol{x}(\gamma), \boldsymbol{v}(\gamma))$ is fit, we use Eq. \ref{eq: acceleration_eqn} directly to estimate "a slice" through the galactic acceleration field along a given stream. 
 <img src="../images/acc.png" alt="drawing" width="900"/>
 This is precisely what the figure above shows for six simulated streams: each column is a distinct stream, while each row is a different acceleration component $\boldsymbol{a} = (a_x, a_y, a_z)$. Black points indicate the ground truth accelerations along our parametrized curve, and red shows our estimate. As illustrated in the main figure at the top of this post, we estimate accelerations subject to the regularization condition that rapid changes in $\boldsymbol{a}$ should be minimized. That is, we penalize neural network parameters that give rise to noisy estimates of the acceleration field. 
 
