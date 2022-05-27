@@ -64,7 +64,7 @@ where $\tilde{\gamma}$ is an evaluation point. In summary, we have used the chai
 ## Fitting Simulated Streams in a Ground Truth Potential
 <img src="../images/stream_sample.png" alt="drawing" height = 500 width="950"/>
 Each stream in our work is fit using a flexible neural network to estimate $\boldsymbol{x}(\gamma)$ and $\boldsymbol{v}(\gamma)$. A sample fit to a simulated stream is shown above, where the scatter points represent stars in the space of cartesian positions $(x,y,z)$ and the colorful curve is our neural network derived stream track. The curve is color-coded by the $\gamma$-value, which encodes position along the stream. We also fit the speed along the stream using a neural network, illustrated below.
-<img src="../images/speed.png" alt="drawing" width="350"/>
+<img src="../images/speed.png" alt="drawing" class="center" width="350"/>
 
 ## Estimating Accelerations
 Now, once the differentiable phase-space curve $(\boldsymbol{x}(\gamma), \boldsymbol{v}(\gamma))$ is fit, we use Eq. \ref{eq: acceleration_eqn} directly to estimate "a slice" through the galactic acceleration field along a stream. 
