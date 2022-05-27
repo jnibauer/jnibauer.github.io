@@ -64,7 +64,9 @@ where $\tilde{\gamma}$ is an evaluation point. In summary, we have used the chai
 ## Fitting Simulated Streams in a Ground Truth Potential
 <img src="../images/stream_sample.png" alt="drawing" height = 500 width="950"/>
 Each stream in our work is fit using a flexible neural network to estimate $\boldsymbol{x}(\gamma)$ and $\boldsymbol{v}(\gamma)$. A sample fit to a simulated stream is shown above, where the scatter points represent stars in the space of cartesian positions $(x,y,z)$ and the colorful curve is our neural network derived stream track. The curve is color-coded by the $\gamma$-value, which encodes position along the stream. We also fit the speed along the stream using a neural network, illustrated below.
-<img src="../images/speed.png" class="center" alt="drawing" width="350"/>
+
+<img src="../images/speed.png" class="center" alt="drawing" height = 500 width="950"/>
+
 Once we have estimated both the track of the stream and the local speed along the track, we have the ingredients necessary to estimate accelerations along the track.
 
 ## Estimating Accelerations
