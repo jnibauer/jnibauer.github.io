@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Click Here](https://jnibauer.github.io/_pages/jacob_nibauer_cv.pdf) to see a full CV (not updated frequently!). If you're looking for an updated publication list, see below.
+[Click Here](https://jnibauer.github.io/_pages/jacob_nibauer_cv.pdf) to see a full CV (not updated frequently!). An updated publication list is below:
 
 {:start="7"}
  7. [Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk](https://arxiv.org/abs/2312.09233){:target="_blank"}: **Nibauer** et al. 2023, submitted
