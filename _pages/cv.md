@@ -9,7 +9,7 @@ redirect_from:
 [Click Here](https://jnibauer.github.io/_pages/jacob_nibauer_cv.pdf) to see a full CV (not updated frequently!). An updated publication list is below:
 
 {:start="7"}
- 7. [Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk](https://arxiv.org/abs/2312.09233){:target="_blank"}: **Nibauer** et al. 2023, submitted
+ 7. [Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk](https://arxiv.org/abs/2312.09233){:target="_blank"}: **Nibauer** et al. 2024, ApJ 969 55
 
 {:start="6"}
  6. [Stream Members Only: Data-Driven Characterization of Stellar Streams with Mixture Density Networks](https://arxiv.org/abs/2311.16960){:target="_blank"}: **Starkman & Nibauer** et al. 2023 (co-first author), submitted
