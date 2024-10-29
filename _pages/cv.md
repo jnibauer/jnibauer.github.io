@@ -6,7 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Click Here](https://jnibauer.github.io/_pages/jacob_nibauer_cv.pdf) to see a full CV (not updated frequently!). An updated publication list is below:
+
+
+{:start="8"}
+ 8. [Hamiltonian Perturbation Theory for Stellar Streams in Flexible Potentials with Differentiable Simulations](https://arxiv.org/abs/2410.21174){:target="_blank"}: **Nibauer** et al. 2024, submitted.
 
 {:start="7"}
  7. [Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk](https://arxiv.org/abs/2312.09233){:target="_blank"}: **Nibauer** et al. 2024, ApJ 969 55
