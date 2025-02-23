@@ -9,7 +9,7 @@ redirect_from:
 
 
 {:start="8"}
- 8. [Hamiltonian Perturbation Theory for Stellar Streams in Flexible Potentials with Differentiable Simulations](https://arxiv.org/abs/2410.21174){:target="_blank"}: **Nibauer** et al. 2025, (Accepted, in press).
+ 8. [Hamiltonian Perturbation Theory for Stellar Streams in Flexible Potentials with Differentiable Simulations](https://arxiv.org/abs/2410.21174){:target="_blank"}: **Nibauer** et al. 2025, accepted, in press.
 
 {:start="7"}
  7. [Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk](https://arxiv.org/abs/2312.09233){:target="_blank"}: **Nibauer** et al. 2024, ApJ 969 55
