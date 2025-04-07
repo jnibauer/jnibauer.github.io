@@ -9,13 +9,13 @@ redirect_from:
 
 
 {:start="8"}
- 8. [Hamiltonian Perturbation Theory for Stellar Streams in Flexible Potentials with Differentiable Simulations](https://arxiv.org/abs/2410.21174){:target="_blank"}: **Nibauer** et al. 2025, accepted, in press.
+ 8. [Hamiltonian Perturbation Theory for Stellar Streams in Flexible Potentials with Differentiable Simulations](https://arxiv.org/abs/2410.21174){:target="_blank"}: **Nibauer** et al. 2025, ApJ 983 68
 
 {:start="7"}
  7. [Slant, Fan, and Narrow: the Response of Stellar Streams to a Tilting Galactic Disk](https://arxiv.org/abs/2312.09233){:target="_blank"}: **Nibauer** et al. 2024, ApJ 969 55
 
 {:start="6"}
- 6. [Stream Members Only: Data-Driven Characterization of Stellar Streams with Mixture Density Networks](https://arxiv.org/abs/2311.16960){:target="_blank"}: **Starkman & Nibauer** et al. 2023 (co-first author), submitted
+ 6. [Stream Members Only: Data-Driven Characterization of Stellar Streams with Mixture Density Networks](https://arxiv.org/abs/2311.16960){:target="_blank"}: **Starkman & Nibauer** et al. 2025 (co-first author), ApJ 980 253
 
 {:start="5"}
  5. [Constraining the Gravitational Potential from the Projected Morphology of Extragalactic Tidal Streams](https://iopscience.iop.org/article/10.3847/1538-4357/ace9bc){:target="_blank"}: **Nibauer** et al. 2023, ApJ 954 195
