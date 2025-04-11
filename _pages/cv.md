@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {:start="9"}
- 9. [Galactic Accelerations from the GD-1 Stream Suggest a Tilted Dark Matter Halo](https://arxiv.org/abs/2504.07187){:target="_blank"}: **Nibauer** & Bonaca 2025,submitted.
+ 9. [Galactic Accelerations from the GD-1 Stream Suggest a Tilted Dark Matter Halo](https://arxiv.org/abs/2504.07187){:target="_blank"}: **Nibauer** & Bonaca 2025, submitted.
 
 {:start="8"}
  8. [Hamiltonian Perturbation Theory for Stellar Streams in Flexible Potentials with Differentiable Simulations](https://arxiv.org/abs/2410.21174){:target="_blank"}: **Nibauer** et al. 2025, ApJ 983 68
